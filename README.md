@@ -1,1 +1,0 @@
-# Backtest_journal
